@@ -14,6 +14,8 @@ inoremap kj <ESC>
 vnoremap <Tab> >
 vnoremap <S-Tab> <
 
+let g:closetag_filenames = '*.html,*.xml,*.jsx'
+
 syntax on
 filetype plugin indent on
 set shiftwidth=4
