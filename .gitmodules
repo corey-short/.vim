@@ -4,3 +4,6 @@
 [submodule "pack/plugins/start/nerdtree"]
 	path = pack/plugins/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/plugins/start/closetag"]
+	path = pack/plugins/start/closetag
+	url = https://github.com/alvan/vim-closetag.git
