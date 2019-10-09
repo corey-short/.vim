@@ -21,3 +21,4 @@ filetype plugin indent on
 set shiftwidth=4
 set expandtab
 set mouse=a
+set nu
